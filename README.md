@@ -139,8 +139,8 @@ I love creating interactive web applications and exploring new technologies!
 ## **GitHub Stats 📊**
 
 <p>
- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=emazouz&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&order=2" alt="Top Languages" width="460px" height="200px" />
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=emazouz&show_icons=true&locale=en&theme=radical&hide_border=true&order=2" alt="GitHub Stats" width="460px" height="200px" />
+ <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=emazouz&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&order=2" alt="Top Languages" height="200px" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=emazouz&show_icons=true&locale=en&theme=radical&hide_border=true&order=2" alt="GitHub Stats" height="200px" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>

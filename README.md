@@ -28,7 +28,7 @@
 <br>
 
 ### 👨‍💻 **About Me**
-<h3 align="left">I am a full-stack web developer from Morocco, passionate about creating dynamic and user-friendly web applications. With a strong foundation in both front-end and back-end technologies, I specialize in building scalable and efficient web solutions. My journey in web development began with a curiosity for how things work, and it has since evolved into a career dedicated to continuous learning and innovation.</h3>
+<h3 align="left">I am a freelance full-stack web developer from Morocco, passionate about creating dynamic and user-friendly web applications. With a strong foundation in both front-end and back-end technologies, I specialize in building scalable and efficient web solutions. My journey in web development began with a curiosity about how things work, and it has since evolved into a rewarding career dedicated to continuous learning and innovation. I thrive on collaborating with clients to bring their visions to life, ensuring that each project not only meets their needs but also enhances user experience.</h3>
 
 <br>
 <br>

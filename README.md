@@ -22,7 +22,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" alt="Greeting">, I am Younes Mazouz</h1>
 
 <picture>
-  <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px" alt="Right Side Animation">
+  <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="300px" alt="Right Side Animation">
 </picture>
 
 <br>
@@ -137,9 +137,10 @@ I love creating interactive web applications and exploring new technologies!
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## **GitHub Stats 📊**
+
 <p>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=emazouz&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Top Languages" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=emazouz&show_icons=true&locale=en&theme=chartreuse-dark" alt="GitHub Stats" width="460" />
+ <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=emazouz&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&order=2" alt="Top Languages" width="460px" height="200px" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=emazouz&show_icons=true&locale=en&theme=radical&hide_border=true&order=2" alt="GitHub Stats" width="460px" height="200px" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>

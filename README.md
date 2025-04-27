@@ -5,7 +5,7 @@
     <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="200px" alt="About Me">
 </div>
 
-<p align="left">
+<p align="center">
     <img src="https://komarev.com/ghpvc/?username=emazouz&color=blue" alt="Profile Views" />
 </p>
 
@@ -24,20 +24,16 @@
   <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="300px" alt="Right Side Animation">
 </picture>
 
-<br>
-
 ### 👨‍💻 **About Me**
-<h3 align="left">I am a freelance full-stack web developer from Morocco, passionate about creating dynamic and user-friendly web applications. With a strong foundation in both front-end and back-end technologies, I specialize in building scalable and efficient web solutions. My journey in web development began with a curiosity about how things work, and it has since evolved into a rewarding career dedicated to continuous learning and innovation. I thrive on collaborating with clients to bring their visions to life, ensuring that each project not only meets their needs but also enhances user experience.</h3>
+<h3 align="center">I am a freelance full-stack web developer from Morocco, passionate about creating dynamic and user-friendly web applications. With a strong foundation in both front-end and back-end technologies, I specialize in building scalable and efficient web solutions. My journey in web development began with a curiosity about how things work, and it has since evolved into a rewarding career dedicated to continuous learning and innovation. I thrive on collaborating with clients to bring their visions to life, ensuring that each project not only meets their needs but also enhances user experience.</h3>
 
-<br>
-<br>
+<br><br>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+Warahmatullah..&hearts;++;Self-taught+Full-Stack+Developer;Computer+Science+Student;CTF+Enthusiast;Active+Learner+and+Researcher;Love+to+learn+new+stuff..<3" alt="Typing Animation">
   </a>
 </p>
-<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -65,7 +61,7 @@ I love creating interactive web applications and exploring new technologies!
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> **Connect with Me**
-<div align="left">
+<div align="center">
   <a href="https://www.instagram.com/emazouz.dev?igsh=OWUxdHI2ZXI3Zmdy" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="56" height="38" alt="instagram logo" />
   </a>
@@ -82,7 +78,6 @@ I love creating interactive web applications and exploring new technologies!
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="56" height="38" alt="facebook logo" />
   </a>
 </div>
-<br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 

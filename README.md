@@ -1,4 +1,4 @@
-<img style="width:100%;height:3px;" src="./bar.gif" />
+<img src="https://i.imgur.com/dBaSKWF.gif" height="50" width="100%">
 
 ### Hey, I'm Younes 👋
 

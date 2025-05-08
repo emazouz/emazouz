@@ -10,6 +10,6 @@ Currently working on building [RONIN](https://emazouz.dev/demo)
 
 ## 📫 Contact
 
-For a fast response, please DM me on Twitter: [@nurodev](https://x.com/emazouz_) 
+For a fast response, please DM me on Twitter: [@emazouz_](https://x.com/emazouz_) 
 
-Any other queries you can contact me via [LinkedIn](https://www.linkedin.com/in/emazouz) or via my website: [nuro.dev](https://emazouz.dev/contact)
+Any other queries you can contact me via [LinkedIn](https://www.linkedin.com/in/emazouz) or via my website: [emazouz.dev](https://emazouz.dev/contact)

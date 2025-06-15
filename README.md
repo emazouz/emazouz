@@ -1,15 +1,30 @@
-<img src="https://i.imgur.com/dBaSKWF.gif" height="50" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="50" width="100%" alt="Banner Animation" />
 
-### Hey, I'm Younes 👋
+<h1 align="center">Hey, I'm Younes 👋</h1>
 
-I'm a 20 year old full-stack engineer & web developer
+<p align="center">
+  🎯 Full-Stack Engineer & Web Developer <br/>
+  👨‍💻 Passionate about building modern web experiences <br/>
+  🌍 Based in Morocco | 🧠 20 years old
+</p>
 
-## ⚡️ Current
+---
 
-Currently working on building [RONIN](https://emazouz.dev/demo)
+## ⚡ What I'm Working On
 
-## 📫 Contact
+🚀 Currently building an advanced full-stack project called [RONIN](https://emazouz.dev/demo) — a modern digital experience.
 
-For a fast response, please DM me on Twitter: [@emazouz_](https://x.com/emazouz_) 
+---
 
-Any other queries you can contact me via [LinkedIn](https://www.linkedin.com/in/emazouz) or via my website: [emazouz.dev](https://emazouz.dev/contact)
+## 📫 Let's Connect
+
+📬 For quick replies: DM me on Twitter  
+→ [@emazouz_](https://x.com/emazouz_)
+
+🔗 For professional inquiries:  
+→ [LinkedIn](https://www.linkedin.com/in/emazouz)  
+→ [Website Contact Form](https://emazouz.dev/contact)
+
+---
+
+> 💡 "Code with purpose. Build with passion."

@@ -3,28 +3,63 @@
 <h1 align="center">Hey, I'm Younes 👋</h1>
 
 <p align="center">
-  🎯 Full-Stack Engineer & Web Developer <br/>
+  🎯 Full-Stack Developer | Next.js & Node.js Specialist <br/>
   👨‍💻 Passionate about building modern web experiences <br/>
   🌍 Based in Morocco | 🧠 21 years old
 </p>
 
----
 
-## ⚡ What I'm Working On
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 
-🚀 Currently building an advanced full-stack project called [RONIN](https://emazouz.dev/demo) — a modern digital experience.
-
----
-
-## 📫 Let's Connect
-
-📬 For quick replies: DM me on Twitter  
-→ [@emazouz_](https://x.com/emazouz_)
-
-🔗 For professional inquiries:  
-→ [LinkedIn](https://www.linkedin.com/in/emazouz)  
-→ [Website Contact Form](https://emazouz.dev/contact)
+</div>
 
 ---
 
-> 💡 "Code with purpose. Build with passion."
+## 🚀 About Me
+```typescript
+const developer = {
+  name: "Your Name",
+  role: "Full-Stack Developer",
+  location: "Casablanca, Morocco 🇲🇦",
+  yearsOfExperience: 5,
+  specialization: ["Next.js", "React", "Node.js", "TypeScript"],
+  currentFocus: "Building scalable web applications",
+  openToWork: true,
+  
+  code: ["JavaScript", "TypeScript", "HTML", "CSS", "SQL"],
+  technologies: {
+    frontend: {
+      frameworks: ["Next.js", "React", "Vue.js"],
+      styling: ["Tailwind CSS", "SASS", "Bootstrap"],
+      animation: ["Framer Motion"],
+      stateManagement: ["Redux", "Zustand", "Context API"]
+    },
+    backend: {
+      runtime: ["Node.js"],
+      frameworks: ["Express.js", "NestJS"],
+      api: ["REST", "GraphQL"]
+    },
+    databases: {
+      sql: ["PostgreSQL", "MySQL"],
+      nosql: ["MongoDB"],
+      orm: ["Prisma", "TypeORM"]
+    },
+    devOps: {
+      containerization: ["Docker"],
+      cloud: ["AWS (EC2, S3, Lambda)"],
+      ci_cd: ["GitHub Actions", "GitLab CI"]
+    },
+    testing: {
+      frameworks: ["Jest", "React Testing Library"],
+      types: ["Unit", "Integration", "E2E"]
+    }
+  },
+  architecture: ["Microservices", "Serverless", "RESTful APIs", "MVC"],
+  currentlyLearning: ["System Design", "Kubernetes", "GraphQL"],
+  funFact: "I debug with console.log and I'm not ashamed! 😄"
+};

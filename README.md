@@ -1,65 +1,20 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="50" width="100%" alt="Banner Animation" />
 
-<h1 align="center">Hey, I'm Younes 👋</h1>
-
-<p align="center">
-  🎯 Full-Stack Developer | Next.js & Node.js Specialist <br/>
-  👨‍💻 Passionate about building modern web experiences <br/>
-  🌍 Based in Morocco | 🧠 21 years old
-</p>
+# 💫 About Me:
+I'm a full-stack developer specializing in transforming slow, insecure websites into fast, robust digital assets that boost your sales and protect your customers' data.<br><br>To achieve speed, I use Next.js (React) to implement SSR/SSG pre-rendering technologies, ensuring instant page load times. This not only improves user experience but also guarantees a higher search engine ranking (SEO).<br><br>For security, I strictly implement OWASP Top 10 standards in the backend (Node.js/NestJS), with full encryption of sensitive data. This means your system and customer data are protected from 99% of common web attacks.<br><br>But the true value of my work extends far beyond launch day. I don't just build fast, secure applications; I build scalable, cost-effective systems. My commitment to clean code means a 50% reduction in future maintenance costs. And my infrastructure (proven to handle 5,000+ concurrent users) ensures your system grows with you, eliminating the need for a complete rebuild when you scale. Finally, my methodology guarantees complete transparency. You'll never have to ask, "What's the latest?" I provide proactive and regular updates, ensuring you're fully informed and up-to-date at every step, from initial planning to final delivery.
 
 
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/emazouz)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://emazouz.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wb.mazouz@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/emazouzDev)
+## 🌐 Socials:
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/https://bsky.app/profile/emazouz.bsky.social) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/http://www.behance.net/emazouz) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/1314635479555112991) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=61552785323792) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/emazouz.dev/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/emazouz/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@emazouz) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/www.pinterest.com/emazouz_dev) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://ar.quora.com/profile/Emazouz) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/28801840/emazouz) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@emazouz.dev?is_from_webapp=1&sender_device=pc) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/https://www.twitch.tv/emazouzdev) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/emazouzDev) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@emazouz?si=L3r6gDcK8Q_pRqEF) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/emazouz) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:emazouz.dev@gmail.com) 
 
-</div>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![AdonisJS](https://img.shields.io/badge/adonisjs-%23220052.svg?style=for-the-badge&logo=adonisjs&logoColor=white) ![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=for-the-badge&logo=alpinedotjs&logoColor=%238BC0D0) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Deno JS](https://img.shields.io/badge/deno%20js-000000?style=for-the-badge&logo=deno&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=emazouz&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=emazouz&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=emazouz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=emazouz&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🚀 About Me
-```typescript
-const developer = {
-  name: "Younes Mazouz",
-  role: "Full-Stack Developer",
-  location: "Casablanca, Morocco 🇲🇦",
-  yearsOfExperience: 5,
-  specialization: ["Next.js", "React", "Node.js", "TypeScript"],
-  currentFocus: "Building scalable web applications",
-  openToWork: true,
-  
-  code: ["JavaScript", "TypeScript", "HTML", "CSS", "SQL"],
-  technologies: {
-    frontend: {
-      frameworks: ["Next.js", "React", "Vue.js"],
-      styling: ["Tailwind CSS", "SASS", "Bootstrap"],
-      animation: ["Framer Motion"],
-      stateManagement: ["Redux", "Zustand", "Context API"]
-    },
-    backend: {
-      runtime: ["Node.js"],
-      frameworks: ["Express.js", "NestJS"],
-      api: ["REST", "GraphQL"]
-    },
-    databases: {
-      sql: ["PostgreSQL", "MySQL"],
-      nosql: ["MongoDB"],
-      orm: ["Prisma", "TypeORM"]
-    },
-    devOps: {
-      containerization: ["Docker"],
-      cloud: ["AWS (EC2, S3, Lambda)"],
-      ci_cd: ["GitHub Actions", "GitLab CI"]
-    },
-    testing: {
-      frameworks: ["Jest", "React Testing Library"],
-      types: ["Unit", "Integration", "E2E"]
-    }
-  },
-  architecture: ["Microservices", "Serverless", "RESTful APIs", "MVC"],
-  currentlyLearning: ["System Design", "Kubernetes", "GraphQL"],
-  funFact: "I debug with console.log and I'm not ashamed! 😄"
-};
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -16,5 +16,7 @@ I'm a full-stack developer specializing in transforming slow, insecure websites 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=emazouz&icon=0&color=0)](https://visitcount.itsvg.in)
+<img src="https://i.imgur.com/dBaSKWF.gif" height="50" width="100%" alt="Banner Animation" />
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -20,11 +20,11 @@ A site that gets traffic but no sales usually fails three tests: **speed**, **cl
 
 | Project | What it is |
 |---|---|
-| [Full-Stack E-Commerce Platform](https://github.com/emazouz/full-stack-ecommerce-platform) | Complete online store — catalogue, cart, orders and admin |
+| [Full-Stack E-Commerce Platform](https://github.com/emazouz/full-stack-ecommerce-platform) | Modern e-commerce storefront — Next.js 15, React 19, Tailwind v4, dark/light themes |
 | [BlogCMS Platform](https://github.com/emazouz/BlogCMS-Platform-Advanced-Content-Management-System-for-Blogs-and-Digital-Publishing) | Advanced CMS for blogs and digital publishing (Next.js, MongoDB, NextAuth) |
-| [E-Commerce — Sanity + Stripe](https://github.com/emazouz/nextjs-ecommerce-sanity-stripe) | Modern store with headless CMS and Stripe payments |
-| [Portfolio + Dashboard](https://github.com/emazouz/fullstack-portfolio-dashboard-nextjs) | Portfolio site with an admin dashboard, content management and analytics |
-| [Digital Agency Template](https://github.com/emazouz/digital-agency-multipage-template) | High-performance multi-page website for digital agencies (React, Tailwind) |
+| [E-Commerce — Sanity + Stripe](https://github.com/emazouz/nextjs-ecommerce-sanity-stripe) | Complete store with headless CMS, cart and real Stripe payments |
+| [E-Commerce Mobile App](https://github.com/emazouz/ecommerce-app-native-main) | Native shopping app (Expo / React Native) with Node.js + MongoDB API and Clerk auth |
+| [Portfolio & Recent Works](https://github.com/emazouz/Portfolio-to-Recent-Works) | Full-stack portfolio platform — Next.js front end, Express + Prisma + PostgreSQL API |
 | [Auth System](https://github.com/emazouz/nextjs-auth-system) | Complete authentication — OAuth (GitHub/Google), email verification, password reset |
 
 ## 💻 Tech stack
@@ -43,11 +43,5 @@ Also in my toolbox: Sanity, NextAuth / Auth.js, Zod, Redux, Framer Motion, Sass,
 ## 🌐 Socials
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/emazouz.dev) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/emazouz.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emazouz) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/emazouzDev) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/212621443301) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:codebyemazouz@gmail.com)
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=emazouz&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=emazouz&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=emazouz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="50" width="100%" alt="Banner Animation" />
